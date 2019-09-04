@@ -1,2 +1,3 @@
 # azure-speech-testing
-downloading youtube videos and testing them on azure speech service.
+downloading_processing - downloads the youtube videos and subtitles converts them to audios , splits them into audio chuks of desired duration and creates a transcription file
+testing- tests these audio on azure speech services and visualizes the word error rate.
